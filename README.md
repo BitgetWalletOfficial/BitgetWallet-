@@ -1,3 +1,5 @@
+<img src="https://cdn.bitkeep.vip/operation/u_b_66c4a6a0-512c-11f0-90d4-4d1dc55b70b7.jpeg" alt="Bitget Wallet Banner" width="800"/>
+
 # Bitget Wallet - 与 8000 万用户一起拥抱金融自由
 
 ---
