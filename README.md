@@ -11,7 +11,7 @@
 <details>
   <summary>点击查看创建新账号教程</summary>
 
-<img src="https://cdn.bitkeep.vip/operation/u_b_c23ba190-57f4-11f0-a200-6798ef212d76.png" alt="Bitget Wallet 安装引导图" width="800"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_d2efa490-57f5-11f0-a200-6798ef212d76.jpeg" alt="Bitget Wallet 安装引导图" width="800"/>
 
 </details>
 
@@ -33,7 +33,7 @@
 <details>
   <summary>点击查看安卓安装教程</summary>
 
-<img src="https://cdn.bitkeep.vip/operation/u_b_ad0ae350-57e3-11f0-a200-6798ef212d76.png" width="100%" alt="安卓安装教程"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_d27d81d0-57f5-11f0-a200-6798ef212d76.jpeg" width="100%" alt="安卓安装教程"/>
 
 </details>
 
