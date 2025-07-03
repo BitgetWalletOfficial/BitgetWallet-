@@ -1,46 +1,75 @@
+<!-- Banner -->
 <img src="https://cdn.bitkeep.vip/operation/u_b_27f96860-582b-11f0-a200-6798ef212d76.jpeg" alt="Bitget Wallet Banner" width="800"/>
 
-# Bitget Wallet - 与 8000 万用户一起拥抱金融自由
+<h1>Bitget Wallet - 与 8000 万用户一起拥抱金融自由</h1>
 
----
+<h2>✅ 如您已有海外 App Store / Google Play 账号</h2>
+<a href="https://bitgetwallet.onelink.me/6Vx1/51jsnt2g" style="display:inline-block;padding:10px 16px;background:#007bff;color:#fff;text-decoration:none;border-radius:6px;margin:8px 0; font-weight: bold;">点击立即下载</a>
 
-<h2><img src="https://img.icons8.com/ios-filled/25/000000/mac-os.png" width="20" style="vertical-align: middle;"/> 苹果用户安装教程</h2>
+<hr/>
 
-### 📘 1. 创建新的Apple ID账号
+<h2><img src="https://img.icons8.com/ios-filled/25/000000/mac-os.png" width="20" style="vertical-align: middle;"/> 苹果用户安装教程 <span style="font-weight:normal;color:#888">(无海外 App Store 账号)</span></h2>
 
+<h3>📘 方法一：创建新的 Apple ID 账号</h3>
 <details>
-  <summary>点击查看创建新账号教程</summary>
-
-<img src="https://cdn.bitkeep.vip/operation/u_b_47995ff0-582a-11f0-a200-6798ef212d76.jpeg" alt="创建苹果新账号" width="800"/>
-<img src="https://cdn.bitkeep.vip/operation/u_b_47a48380-582a-11f0-a200-6798ef212d76.jpeg" alt="创建苹果新账号" width="800"/>
-<img src="https://cdn.bitkeep.vip/operation/u_b_47a6f480-582a-11f0-a200-6798ef212d76.jpeg" alt="创建苹果新账号" width="800"/>
-
+  <summary>点击查看详细图文教程</summary>
+  <img src="https://cdn.bitkeep.vip/operation/u_b_47995ff0-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="创建苹果新账号 - 步骤1"/>
+  <img src="https://cdn.bitkeep.vip/operation/u_b_47a48380-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="创建苹果新账号 - 步骤2"/>
+  <img src="https://cdn.bitkeep.vip/operation/u_b_47a6f480-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="创建苹果新账号 - 步骤3"/>
 </details>
 
----
+<h3>🛠️ 方法二：使用公开 Apple ID 账号</h3>
+➡️<a href="https://www.xgjs.top/" style="display:inline-block;padding:10px 16px;background:#28a745;color:#fff;text-decoration:none;border-radius:6px;margin:6px 0; font-weight: bold;">查看公共账号教程</a>
 
-### 🛠️ 2. 使用公开Apple ID账号  
-👉 [点击查看使用公共账号教程](https://www.xgjs.top/)
-
----
-
-### 💰 3. 购买一个Apple ID账号  
-👉 [点击前往购买页面](https://buy.vntos.com/buy/11)
-
----
-
-<h2><img src="https://img.icons8.com/ios-filled/25/000000/android-os.png" width="20" style="vertical-align: middle;"/> 安卓用户安装教程</h2>
-
+<h4>公开 Apple ID 使用常见问题 FAQ</h4>
 <details>
-  <summary>点击查看安卓安装教程</summary>
-
-<img src="https://cdn.bitkeep.vip/operation/u_b_9d919580-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="安卓APK安装教程"/>
-<img src="https://cdn.bitkeep.vip/operation/u_b_9d9258d0-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="安卓APK安装教程"/>
-
+  <summary style="font-size: 16px; font-weight: bold; cursor: pointer;">点击展开常见问题解答</summary>
+  <ul style="line-height: 1.8; margin-top: 12px;">
+    <li><strong>Q：</strong>登录公共 Apple ID 时提示「双重验证」怎么办？<br/>
+        <strong>A：</strong>清除浏览器缓存，刷新页面获取新账号，并严格按教程登录。
+    </li>
+    <li><strong>Q：</strong>手机出现「丢失的 iPhone」，提示联系私人账号怎么办？<br/>
+        <strong>A：</strong>输入正确锁屏密码解除限制，并立即退出公共账号。
+    </li>
+    <li><strong>Q：</strong>下载 Bitget Wallet 时提示「App 不可用」怎么办？<br/>
+        <strong>A：</strong>检查 Apple ID 地区是否为中国大陆，重新登录后再下载。
+    </li>
+    <li><strong>Q：</strong>App Store 提示「验证失败」怎么办？<br/>
+        <strong>A：</strong>使用原始下载账号更新，或卸载后用当前账号重新安装。
+    </li>
+    <li><strong>Q：</strong>下载提示「此项目已不再提供」怎么办？<br/>
+        <strong>A：</strong>删除旧版本 App，重新下载安装最新版即可。
+    </li>
+    <li><strong>Q：</strong>公共 Apple ID 安全吗？<br/>
+        <strong>A：</strong>用于临时下载是安全的，但请勿绑定隐私信息。
+    </li>
+    <li><strong>Q：</strong>账号创建后登录不了 App Store？<br/>
+        <strong>A：</strong>请检查网络环境是否为海外 IP，必要时使用 VPN。
+    </li>
+  </ul>
 </details>
 
----
+<h3>💰 方法三：购买 Apple ID 账号</h3>
+➡️<a href="https://buy.vntos.com/buy/11" style="display:inline-block;padding:10px 16px;background:#ffc107;color:#000;text-decoration:none;border-radius:6px;margin:6px 0; font-weight: bold;">前往购买页面</a>
 
-## 💬 联系社区客服
+<hr/>
 
-<img src="https://img.icons8.com/ios-filled/25/000000/telegram-app.png" width="18"/> [Telegram社区](https://t.me/Bitget_Wallet_CN)
+<h2><img src="https://img.icons8.com/ios-filled/25/000000/android-os.png" width="20" style="vertical-align: middle;"/> 安卓用户安装教程 <span style="font-weight:normal;color:#888">(无海外 Google Play 账号)</span></h2>
+
+➡️ <a href="https://static.bitkeep.vip/apk/9050/BitgetWallet9050_official.apk" target="_blank" style="color: #007bff; text-decoration: underline;">直接下载 Bitget Wallet APK 安装包</a>
+
+<p style="margin-top: 10px;">🔔若安装时遇到“风险提示”或无法安装，请查看下方APK安装教程 👇</p>
+
+<details style="margin-top: 10px;">
+  <summary style="font-size: 16px; font-weight: bold; cursor: pointer;">点击查看详细教程</summary>
+  <img src="https://cdn.bitkeep.vip/operation/u_b_9d919580-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="安卓安装步骤1" style="margin: 10px 0;"/>
+  <img src="https://cdn.bitkeep.vip/operation/u_b_9d9258d0-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="安卓安装步骤2"/>
+</details>
+
+<hr/>
+
+<h2>💬 联系社区客服</h2>
+<p>
+  <img src="https://img.icons8.com/ios-filled/25/000000/telegram-app.png" width="18" style="vertical-align: middle;"/> 
+  <a href="https://t.me/Bitget_Wallet_CN" style="font-weight: bold;">Telegram 社区</a>
+</p>
