@@ -1,20 +1,21 @@
-<img src="https://cdn.bitkeep.vip/operation/u_b_66c4a6a0-512c-11f0-90d4-4d1dc55b70b7.jpeg" alt="Bitget Wallet Banner" width="800"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_27f96860-582b-11f0-a200-6798ef212d76.jpeg" alt="Bitget Wallet Banner" width="800"/>
 
 # Bitget Wallet - 与 8000 万用户一起拥抱金融自由
 
 ---
 
-## 🍎 苹果用户安装教程
+<h2><img src="https://img.icons8.com/ios-filled/25/000000/mac-os.png" width="20" style="vertical-align: middle;"/> 苹果用户安装教程</h2>
 
-### 📘 1. 创建新的Apple ID账号（点击展开）
+### 📘 1. 创建新的Apple ID账号
 
 <details>
   <summary>点击查看创建新账号教程</summary>
 
-<img src="https://cdn.bitkeep.vip/operation/u_b_67e313c0-5823-11f0-a200-6798ef212d76.jpeg" alt="Bitget Wallet 安装引导图" width="800"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_47995ff0-582a-11f0-a200-6798ef212d76.jpeg" alt="创建苹果新账号" width="800"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_47a48380-582a-11f0-a200-6798ef212d76.jpeg" alt="创建苹果新账号" width="800"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_47a6f480-582a-11f0-a200-6798ef212d76.jpeg" alt="创建苹果新账号" width="800"/>
 
 </details>
-
 
 ---
 
@@ -28,12 +29,13 @@
 
 ---
 
-## 🤖 安卓用户安装教程（点击展开）
+<h2><img src="https://img.icons8.com/ios-filled/25/000000/android-os.png" width="20" style="vertical-align: middle;"/> 安卓用户安装教程</h2>
 
 <details>
   <summary>点击查看安卓安装教程</summary>
 
-<img src="https://cdn.bitkeep.vip/operation/u_b_680ce2e0-5823-11f0-a200-6798ef212d76.jpeg" width="100%" alt="安卓安装教程"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_9d919580-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="安卓APK安装教程"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_9d9258d0-582a-11f0-a200-6798ef212d76.jpeg" width="800" alt="安卓APK安装教程"/>
 
 </details>
 
