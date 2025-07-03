@@ -6,24 +6,24 @@
 
 ## 🍎 苹果用户安装教程
 
-### 📘 1. 创建新的 Apple ID 账号（点击展开）
+### 📘 1. 创建新的Apple ID账号（点击展开）
 
 <details>
-  <summary>点击查看安卓安装步骤</summary>
+  <summary>点击查看创建新账号教程</summary>
 
-<img src="https://cdn.bitkeep.vip/operation/u_b_ace09f00-57e3-11f0-a200-6798ef212d76.png" width="100%" alt="创建苹果新APPLE ID账号"/>
+<img src="https://cdn.bitkeep.vip/operation/u_b_c23ba190-57f4-11f0-a200-6798ef212d76.png" alt="Bitget Wallet 安装引导图" width="800"/>
 
 </details>
 
 
 ---
 
-### 🛠️ 2. 使用公开 Apple ID 账号  
-👉 [点击查看公共 Apple ID 教程](https://www.xgjs.top/)
+### 🛠️ 2. 使用公开Apple ID账号  
+👉 [点击查看使用公共账号教程](https://www.xgjs.top/)
 
 ---
 
-### 💰 3. 购买一个 Apple ID 账号  
+### 💰 3. 购买一个Apple ID账号  
 👉 [点击前往购买页面](https://buy.vntos.com/buy/11)
 
 ---
@@ -31,7 +31,7 @@
 ## 🤖 安卓用户安装教程（点击展开）
 
 <details>
-  <summary>点击查看安卓安装步骤</summary>
+  <summary>点击查看安卓安装教程</summary>
 
 <img src="https://cdn.bitkeep.vip/operation/u_b_ad0ae350-57e3-11f0-a200-6798ef212d76.png" width="100%" alt="安卓安装教程"/>
 
